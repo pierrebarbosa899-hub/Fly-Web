@@ -2,7 +2,7 @@
 
 Oi! Esse é o site que eu fiz com meu grupo pra apresentar nosso TCC do curso de Desenvolvimento Web.
 
-🔗 **Tá no ar aqui:** [pierrebarbosa899-hub.github.io/Fly-Web](https://pierrebarbosa899-hub.github.io/Fly-Web)
+ **Tá no ar aqui:** [pierrebarbosa899-hub.github.io/Fly-Web](https://pierrebarbosa899-hub.github.io/Fly-Web)
 
 ## Qual era a ideia?
 A gente precisava mostrar nosso projeto de conclusão de curso de um jeito que qualquer pessoa entendesse. Então criamos esse site institucional bem direto ao ponto.
@@ -22,6 +22,4 @@ Quis treinar bastante Flexbox e Media Queries aqui pra garantir que ficasse bom 
 ## Minha parte no projeto
 Como fizemos em grupo, eu fiquei responsável por todo o front-end. Montei o HTML, fiz o CSS do zero e deixei responsivo. Foi onde mais aprendi na prática.
 
-## Quer rodar aí?
-```bash
-git clone https://github.com/pierrebarbosa899-hub/Fly-Web.git
+
