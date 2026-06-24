@@ -21,5 +21,3 @@ Quis treinar bastante Flexbox e Media Queries aqui pra garantir que ficasse bom 
 
 ## Minha parte no projeto
 Como fizemos em grupo, eu fiquei responsável por todo o front-end. Montei o HTML, fiz o CSS do zero e deixei responsivo. Foi onde mais aprendi na prática.
-
-
